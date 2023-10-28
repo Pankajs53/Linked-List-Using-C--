@@ -21,7 +21,6 @@ class Node{
         this->prev=NULL;
     }
 
-    // destructor for the linked list
 };
 
 
