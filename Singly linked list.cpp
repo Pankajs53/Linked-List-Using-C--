@@ -21,7 +21,6 @@ class Node{
 
     // desctructor
     ~Node() {
-        //write your code here
         cout << "Node with value: " << this->data << "deleted" << endl;
         delete next;
     }
